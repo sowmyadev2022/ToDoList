@@ -115,6 +115,7 @@ USE_L10N = True
 USE_TZ = True
 
 
+ALLOWED_HOSTS = ['34.229.142.51', '34.229.142.51:8000']
 
 
 # Static files (CSS, JavaScript, Images)
